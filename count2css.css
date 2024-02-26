@@ -1,0 +1,33 @@
+body{
+    background-image:url(background.png);
+}
+#time{
+    color: rgb(0, 255, 106);
+    position: relative;
+    left: 64px;
+    background-color:rgba(218,165,32,0.75);
+    display: inline-flex;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: rgb(23,255,120);
+    font-size: 65px;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+}
+h1.name{
+    color:rgb(23,255,120);
+    font-size:20px;
+    text-align: center;
+}
+p.launch{
+    color: goldenrod;
+    text-align: center;
+    font-size:45px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+/*waaaaa*/
